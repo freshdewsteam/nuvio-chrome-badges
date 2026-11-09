@@ -3,9 +3,9 @@ muted gold for Hero badges, muted red for warnings, small coloured tiles. Cached
 from render import STYLES, FALLBACK
 from spec import B
 
-# Cached: lightning icon only, no text
+# Cached (lightning) and Uncached (hourglass): icon only, no text
 for _x in B:
-    if _x["id"] == "cached":
+    if _x["id"] in ("cached", "uncached"):
         _x["label"] = ""; _x["sub"] = None
 
 SILVER = "linear-gradient(180deg,#ffffff 0%,#eef1f5 55%,#c4cad3 100%)"

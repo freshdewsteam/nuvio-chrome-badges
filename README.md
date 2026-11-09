@@ -1,6 +1,6 @@
 # Nuvio Chrome Badges
 
-201 stream badges. The 31 core quality/audio badges (REMUX, 4K, Dolby Vision, Atmos, DTS…) load their artwork from [Elite-Badges](https://github.com/leonevz/Elite-Badges) by leonevz; the other 170 are in a plate-free, understated **Chrome** style: soft silver wordmarks, muted gold for top quality, muted red for warnings. Cached streams show a lightning icon. Streaming-service and Live TV badges are not included.
+87 stream badges. The 31 core quality/audio badges (REMUX, 4K, Dolby Vision, Atmos, DTS…) load their artwork from [Elite-Badges](https://github.com/leonevz/Elite-Badges) by leonevz; the other 56 are in a plate-free, understated **Chrome** style: soft silver wordmarks, muted gold for top quality, muted red for warnings. Cached shows a lightning icon, Uncached an hourglass. Languages: English, Malayalam, Hindi, Tamil. Streaming-service, Live TV, container, subtitle, edition and release-flag badges are not included.
 
 ![preview](previews/chrome.jpg)
 
