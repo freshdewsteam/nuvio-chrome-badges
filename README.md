@@ -1,6 +1,6 @@
 # Nuvio Chrome Badges
 
-261 stream badges. The 31 core quality/audio badges (REMUX, 4K, Dolby Vision, Atmos, DTS…) load their artwork from [Elite-Badges](https://github.com/leonevz/Elite-Badges) by leonevz; the other 230 are in a plate-free **Chrome** style: polished-metal wordmarks, gold metal for top quality, red metal for warnings.
+201 stream badges. The 31 core quality/audio badges (REMUX, 4K, Dolby Vision, Atmos, DTS…) load their artwork from [Elite-Badges](https://github.com/leonevz/Elite-Badges) by leonevz; the other 170 are in a plate-free, understated **Chrome** style: soft silver wordmarks, muted gold for top quality, muted red for warnings. Cached streams show a lightning icon. Streaming-service and Live TV badges are not included.
 
 ![preview](previews/chrome.jpg)
 
@@ -17,7 +17,7 @@
 
 | Colour | Meaning |
 |---|---|
-| Gold | Top quality (REMUX, 4K, Dolby Vision, Atmos, DTS:X, Cached) |
+| Gold | Top quality (REMUX, 4K, Dolby Vision, Atmos, DTS:X, Cached ⚡) |
 | Red | Warnings (CAM, TS, upscaled, fake HDR) |
 | Chrome + coloured tile | Everything else (tile colour = category) |
 
